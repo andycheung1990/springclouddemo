@@ -19,7 +19,7 @@ ribbon:
   ConnectTimeout: 5000
 
 spring:
-  rabbitmq:
+  #rabbitmq:
     #host: rabbitmq
   sleuth:
     sampler:
